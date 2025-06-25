@@ -1,16 +1,12 @@
-## Hi there 👋
+Hi there 👋 I'm Aditi Gite
+🎓 A passionate Computer Engineering student with a love for turning ideas into code and solving real-world problems.
 
-<!--
-**AditiS2005/AditiS2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
+- 🌱 I’m currently learning: `Java`, `Data Structures`, and `Software Engineering`
+- 🛠️ Building projects using: `Python`, `HTML/CSS`
+- 💡 Interested in: Web Development, System Design, and Open Source
+- 🎯 Goal: To build useful and beautiful software and become a full-stack developer
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Tech Stack
+Languages:    C · C++ · Python · Java
+Web:          HTML · CSS · Django · SQLite
